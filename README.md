@@ -4,8 +4,6 @@ _Business Adminsitration Student at [UFF](https://www.uff.br/)_
 
 _Web Development Student at [Trybe](https://www.betrybe.com/)_
 
-I just love working with front-end!
-
 ## Lets talk:
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroscsilva2001@gmail.com)
