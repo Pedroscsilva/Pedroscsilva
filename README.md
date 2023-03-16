@@ -1,8 +1,11 @@
-# Hi, I am Pedroscsilva
+# Hello world
+## I am Pedro Vitor
 
 _Business Adminsitration Student at [UFF](https://www.uff.br/)_
 
 _Web Development Student at [Trybe](https://www.betrybe.com/)_
+
+After working for some time with management, I've decided to start helping people with my code. 
 
 ## Lets talk:
 
