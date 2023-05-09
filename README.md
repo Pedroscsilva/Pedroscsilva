@@ -11,7 +11,7 @@ _Web Development Student at [Trybe](https://www.betrybe.com/)_
 ____
 
 <div>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width='300px' align='right' alt="Computador iuriCode">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width='250px' align='right' alt="Computador iuriCode">
 </div>
 
 <p align="left">
