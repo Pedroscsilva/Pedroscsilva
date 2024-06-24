@@ -4,9 +4,11 @@
 </h1>  
 
 
-_Business Adminsitration Student at [UFF](https://www.uff.br/)_
+_Business Adminsitration at [UFF](https://www.uff.br/)_
 
-_Web Development Student at [Trybe](https://www.betrybe.com/)_
+_Development at [Trybe](https://www.betrybe.com/)_
+
+_Data Stuff (mainly) at [Datacamp](https://www.datacamp.com/)_
 
 ____
 
@@ -62,8 +64,8 @@ ____
 
 - 🇧🇷 Portuguese - **native**
 - 🇬🇧 English - **fluent**
-- 🇦🇷 Spanish - **intermediate**
-- 🇫🇷 French - **intermediate**
+- 🇦🇷 Spanish - **fluent**
+- 🇫🇷 French - **fluent**
 
 ## Lets talk:
 
