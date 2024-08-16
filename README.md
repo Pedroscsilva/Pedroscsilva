@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=003040&height=120&section=header" width=100%/>
 <h1 align="center">
-  Hey there, my name is Pedro! 👋
+  Hey there, I'm Pedro! 👋
 </h1>  
 
 
 _Business Adminsitration at [UFF](https://www.uff.br/)_
 
-_Development at [Trybe](https://www.betrybe.com/)_
+_Computer Science at [Trybe](https://www.betrybe.com/)_
 
 _Data Stuff (mainly) at [Datacamp](https://www.datacamp.com/)_
 
@@ -17,54 +17,16 @@ ____
 </div>
 
 <p align="left">
-   I'm a 21-year-old student based in Brazil with a passion for coding. My interest in coding grew out of my desire to create new solutions to improve the lives of others. I've completed both the Front-end and Back-end modules of my Web Development course and have studied a variety of stacks, which gave me valuable skills that will enable me to develop innovative solutions for a wide range of problems.
+   I'm a 23 years old based in Paris. I've been playing with excel sheets since I'm 10 or something, which got me started with data. I'm experienced in the industry and in the commerce, which I would gladly talk more about with you :)
 </p>
 
-## Stacks
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white&colorA=003040&colorB=00B2DF" /> 
-  
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Mongoose-0b6b81?style=for-the-badge&logo=mongoDB&logoColor=white&colorA=003040&colorB=00B2DF" />
-   
-  <img src="https://img.shields.io/badge/Jest-0b6b81?style=for-the-badge&logo=jest&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Testing_Library-0b6b81?style=for-the-badge&logo=testinglibrary&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Mocha-0b6b81?style=for-the-badge&logo=mocha&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Chai-0b6b81?style=for-the-badge&logo=chai&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon&logoColor=white&colorA=003040&colorB=00B2DF" />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&colorA=003040&colorB=00B2DF" />
-  
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white&colorA=003040&colorB=00B2DF" />
-</p>
-
-
-## I also am currently learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&colorA=003040&colorB=00B2DF" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&colorA=003040&colorB=00B2DF" />  
-</p>
+<br />
 
 ## Languages
 
 - 🇧🇷 Portuguese - **native**
 - 🇬🇧 English - **fluent**
-- 🇦🇷 Spanish - **fluent**
+- 🇧🇴 Spanish - **fluent**
 - 🇫🇷 French - **fluent**
 
 ## Lets talk:
